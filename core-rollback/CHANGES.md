@@ -1,5 +1,9 @@
 [ unreleased ]
 
+#### 1.3.6 / 2024-11-01
+* remove `load_plugin_textdomain()`
+* composer update
+
 #### 1.3.5 / 2023-07-12
 * update rollback choices for PHP version
 
