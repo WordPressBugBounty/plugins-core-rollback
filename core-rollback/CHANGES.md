@@ -1,5 +1,9 @@
 [ unreleased ]
 
+#### 1.3.7 / 2024-12-02
+* start in `init` hook
+* add GitHub Action to generate POT
+
 #### 1.3.6 / 2024-11-01
 * remove `load_plugin_textdomain()`
 * composer update
